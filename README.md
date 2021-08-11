@@ -1,2 +1,2 @@
 # manu-e1
-MANU Easy 1.0 — 3D Printer
+MANU Easy 3D Printer 1.0
