@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<profile name="ANKG1 1.0.0 E1 S3D" version="2021-07-28 17:54:16" app="S3D-Software 4.1.2">
+<profile name="ANKG1_1.0.0_E1_S3D" version="2021-07-28 17:54:16" app="S3D-Software 4.1.2">
   <baseProfile>Default</baseProfile>
   <printMaterial></printMaterial>
   <printQuality></printQuality>
